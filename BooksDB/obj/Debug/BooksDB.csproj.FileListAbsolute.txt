@@ -1,0 +1,17 @@
+C:\Users\redje\source\BooksDB\bin\Debug\BooksDB.exe.config
+C:\Users\redje\source\BooksDB\bin\Debug\BooksDB.exe
+C:\Users\redje\source\BooksDB\bin\Debug\BooksDB.pdb
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.csprojAssemblyReference.cache
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.Form1.resources
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.Properties.Resources.resources
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.csproj.GenerateResource.cache
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.csproj.CoreCompileInputs.cache
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.exe
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.pdb
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.Authors.resources
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.AddAuthor.resources
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.Books.resources
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.AddBook.resources
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.Publishers.resources
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.AddPublisher.resources
+C:\Users\redje\source\BooksDB\obj\Debug\BooksDB.UpdateAuthor.resources
