@@ -1,6 +1,6 @@
 # Bookstore Management System
 
-A desktop application that allows the user to read, add, modify, delete or filter records about books, publishsers and authors. 
+A desktop application that allows the user to read, add, modify, delete or filter records about books, publishers and authors. 
 
 This app was creates using C#, SQL and a Microsoft Access database file.
 
